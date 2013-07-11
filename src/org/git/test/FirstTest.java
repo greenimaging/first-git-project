@@ -8,6 +8,7 @@ public class FirstTest
 		/* Branch 1 comment. */
 		System.out.println("Branch 1's main method.");
 		
+		System.out.println("new Branch 1 Change.");
 		
 	}
 	
