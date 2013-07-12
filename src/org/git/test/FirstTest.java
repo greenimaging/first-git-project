@@ -10,6 +10,8 @@ public class FirstTest
 		
 		System.out.println("New Branch 1 change 2.");
 		
+		System.out.println("Fixing github issue #2.");
+		
 	}
 	
 }
